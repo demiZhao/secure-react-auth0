@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/secure-react-auth0/static/css/main.e4d93510.chunk.css",
+    "main.js": "/secure-react-auth0/static/js/main.587507d6.chunk.js",
+    "main.js.map": "/secure-react-auth0/static/js/main.587507d6.chunk.js.map",
+    "runtime-main.js": "/secure-react-auth0/static/js/runtime-main.e0532dd5.js",
+    "runtime-main.js.map": "/secure-react-auth0/static/js/runtime-main.e0532dd5.js.map",
+    "static/js/2.2d1fe7b5.chunk.js": "/secure-react-auth0/static/js/2.2d1fe7b5.chunk.js",
+    "static/js/2.2d1fe7b5.chunk.js.map": "/secure-react-auth0/static/js/2.2d1fe7b5.chunk.js.map",
+    "index.html": "/secure-react-auth0/index.html",
+    "precache-manifest.3069a6d0de0251470f2c478140a5d78e.js": "/secure-react-auth0/precache-manifest.3069a6d0de0251470f2c478140a5d78e.js",
+    "service-worker.js": "/secure-react-auth0/service-worker.js",
+    "static/css/main.e4d93510.chunk.css.map": "/secure-react-auth0/static/css/main.e4d93510.chunk.css.map",
+    "static/js/2.2d1fe7b5.chunk.js.LICENSE.txt": "/secure-react-auth0/static/js/2.2d1fe7b5.chunk.js.LICENSE.txt",
+    "static/media/loading.svg": "/secure-react-auth0/static/media/loading.c5590569.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0532dd5.js",
+    "static/js/2.2d1fe7b5.chunk.js",
+    "static/css/main.e4d93510.chunk.css",
+    "static/js/main.587507d6.chunk.js"
+  ]
+}
