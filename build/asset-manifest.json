@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/legacy-app-to-react/static/css/main.e4d93510.chunk.css",
+    "main.js": "/legacy-app-to-react/static/js/main.fefaaf2c.chunk.js",
+    "main.js.map": "/legacy-app-to-react/static/js/main.fefaaf2c.chunk.js.map",
+    "runtime-main.js": "/legacy-app-to-react/static/js/runtime-main.54b3d2e1.js",
+    "runtime-main.js.map": "/legacy-app-to-react/static/js/runtime-main.54b3d2e1.js.map",
+    "static/js/2.908a0b4d.chunk.js": "/legacy-app-to-react/static/js/2.908a0b4d.chunk.js",
+    "static/js/2.908a0b4d.chunk.js.map": "/legacy-app-to-react/static/js/2.908a0b4d.chunk.js.map",
+    "index.html": "/legacy-app-to-react/index.html",
+    "precache-manifest.b7662025b9abdc514bad87578d67bb82.js": "/legacy-app-to-react/precache-manifest.b7662025b9abdc514bad87578d67bb82.js",
+    "service-worker.js": "/legacy-app-to-react/service-worker.js",
+    "static/css/main.e4d93510.chunk.css.map": "/legacy-app-to-react/static/css/main.e4d93510.chunk.css.map",
+    "static/js/2.908a0b4d.chunk.js.LICENSE.txt": "/legacy-app-to-react/static/js/2.908a0b4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54b3d2e1.js",
+    "static/js/2.908a0b4d.chunk.js",
+    "static/css/main.e4d93510.chunk.css",
+    "static/js/main.fefaaf2c.chunk.js"
+  ]
+}
